@@ -1,0 +1,64 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Electronics",
+        "description": "Products that use electricity to operate"
+      },
+      {
+        "id": 2,
+        "name": "Clothing",
+        "description": "Clothing items for men, women, and children"
+      },
+      {
+        "id": 3,
+        "name": "Books",
+        "description": "Various types of books, including fiction and non-fiction"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone",
+        "description": "A mobile phone with advanced features and capabilities",
+        "price": 699.99,
+        "category_id": 1
+      },
+      {
+        "id": 2,
+        "name": "Laptop",
+        "description": "A portable computer that can be used on the go",
+        "price": 1299.99,
+        "category_id": 1
+      },
+      {
+        "id": 3,
+        "name": "T-Shirt",
+        "description": "A casual short-sleeved shirt made of cotton or polyester",
+        "price": 19.99,
+        "category_id": 2
+      },
+      {
+        "id": 4,
+        "name": "Jeans",
+        "description": "A pair of denim pants worn as casual wear",
+        "price": 39.99,
+        "category_id": 2
+      },
+      {
+        "id": 5,
+        "name": "Fiction Book",
+        "description": "A book containing a fictional story",
+        "price": 14.99,
+        "category_id": 3
+      },
+      {
+        "id": 6,
+        "name": "Non-Fiction Book",
+        "description": "A book containing factual information on a specific topic",
+        "price": 24.99,
+        "category_id": 3
+      }
+    ]
+  }
+  
